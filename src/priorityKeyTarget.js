@@ -1,0 +1,1 @@
+export const priorityKeyTarget = priorityKey => priorityKey.slice(0, -1);

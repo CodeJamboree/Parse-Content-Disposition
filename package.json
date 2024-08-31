@@ -1,0 +1,12 @@
+{
+  "name": "@codejamboree/parse-content-disposition",
+  "version": "1.0.0",
+  "description": "Parse http header value for content-disposition",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./scripts/test.js"
+  },
+  "author": "Code Jamboree LLC",
+  "license": "MIT"
+}
